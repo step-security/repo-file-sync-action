@@ -597,16 +597,6 @@ group:
       step-security/drkmd.js
 ```
 
-## 💻 Development
-
-Issues and PRs are very welcome!
-
-The actual source code of this library is in the `src` folder.
-
-- run `yarn lint` or `npm run lint` to run eslint.
-- run `yarn start` or `npm run start` to run the Action locally.
-- run `yarn build` or `npm run build` to produce a production version of [repo-file-sync-action](https://github.com/step-security/repo-file-sync-action) in the `dist` folder.
-
 
 ### Credits
 
