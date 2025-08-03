@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "@octokit/core": "^3.6.0",
-    "@vercel/ncc": "^0.34.0"
+    "@vercel/ncc": "^0.38.3"
   }
 }
