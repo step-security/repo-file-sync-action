@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "build": "ncc build src/index.js -o dist -m --license licenses.txt"
+    "build": "ncc build src/index.js -o dist --license licenses.txt"
   },
   "repository": {
     "type": "git",
