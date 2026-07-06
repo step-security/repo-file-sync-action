@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/repo-file-sync-action",
+   "upstream_full_repo_name": "betahuhn/repo-file-sync-action",
+   "action_type": "node",
+   "last_release": {
+     "tag_name": "v1.21.3",
+     "created_at": "2026-05-04T15:26:44Z",
+     "published_at": "2026-05-06T01:15:44Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
