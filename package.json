@@ -27,7 +27,7 @@
     "@octokit/plugin-throttling": "^11.0.1",
     "@putout/git-status-porcelain": "^1.1.0",
     "action-input-parser": "^1.2.33",
-    "axios": "^1.11.0",
+    "axios": "^1.18.0",
     "fs-extra": "^10.1.0",
     "js-yaml": "^4.1.0",
     "node-readfiles": "0.2.0",
